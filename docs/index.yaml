@@ -3,9 +3,9 @@ entries:
   ztunnel:
   - apiVersion: v2
     appVersion: 1.24.3
-    created: "2025-02-12T01:36:08.114986509+01:00"
+    created: "2025-02-12T02:39:13.483443344+01:00"
     description: Helm chart for istio ztunnel components
-    digest: 209cedaff86fff03011c06fedc3bd46fb6f9adf41f5286ff524f6c59351eef73
+    digest: 1120a2fa3b50844a53b150cf72422e2bf2947c8fe02abc13cff67d07c52284ea
     icon: https://istio.io/latest/favicons/android-192x192.png
     keywords:
     - istio-ztunnel
@@ -16,4 +16,4 @@ entries:
     urls:
     - https://eagleusb.github.io/helm-istio-ztunnel/ztunnel-1.24.3.tgz
     version: 1.24.3
-generated: "2025-02-12T01:36:08.114367783+01:00"
+generated: "2025-02-12T02:39:13.482316865+01:00"

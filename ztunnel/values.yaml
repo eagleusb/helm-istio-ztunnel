@@ -35,7 +35,6 @@ _internal_defaults_do_not_set:
   updateStrategy:
     type: RollingUpdate
     rollingUpdate:
-      maxSurge: "3%"
       maxUnavailable: 1
 
   # Pod resource configuration
