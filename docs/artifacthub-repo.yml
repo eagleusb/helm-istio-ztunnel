@@ -1,0 +1,6 @@
+# Artifact Hub repository metadata file
+repositoryID: "a8493e30-ab9f-46b2-8bef-2f4f9be742f0"
+owners:
+  - name: leslie
+    email: git@eagleusb.com
+ignore: []
